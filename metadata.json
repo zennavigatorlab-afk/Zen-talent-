@@ -1,0 +1,6 @@
+{
+  "name": "ZEN TALENT",
+  "description": "School-wide talent identification, development, and recognition system empowering every student's potential across Tamil Nadu and India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
